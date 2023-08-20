@@ -1,0 +1,9 @@
+22/07/2023 16:21:25 https://www.alura.com.br - online: true
+22/07/2023 16:21:25 https://www.caelum.com.br - online: true
+22/07/2023 16:21:25 https://www.google.com.br - online: true
+22/07/2023 16:21:30 https://www.alura.com.br - online: true
+22/07/2023 16:21:31 https://www.caelum.com.br - online: true
+22/07/2023 16:21:31 https://www.google.com.br - online: true
+22/07/2023 16:21:36 https://www.alura.com.br - online: true
+22/07/2023 16:21:36 https://www.caelum.com.br - online: true
+22/07/2023 16:21:36 https://www.google.com.br - online: true
